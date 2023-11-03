@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Backend developer and MIS student with 5 years of experience<br>💻 Python, Node.js, Java, MongoDB, MySQL, PostgreSQL, Express.js, Spring Boot, Flask<br>🚀 Projects: trading bots, e-commerce, rest-apis, social media bots, automation systems, media servers<br>💼 Full-time at Zuppin + own company Dots2<br>🌱 Learning serverless with AWS Lambda and Serverless Framework<br>💬 Ask me anything about backend dev or my projects<br>⚡ I love games! In my free time, you can find me playing FPS & Strategic games. My favorite game is League of Legends: Team Fight Tactics 🎮🎉
+👋 Backend developer and MIS student with 5 years of experience<br>💻 Python, Node.js, Java, MongoDB, MySQL, PostgreSQL, Express.js, Spring Boot, Flask<br>🚀 Projects: trading bots, e-commerce, rest-apis, social media bots, automation systems, media servers<br>💼 Full-time at Zuppin + own company Limenet IT<br>🌱 Learning serverless with AWS Lambda and Serverless Framework<br>💬 Ask me anything about backend dev or my projects<br>⚡ I love games! In my free time, you can find me playing FPS & Strategic games. My favorite game is League of Legends: Team Fight Tactics 🎮🎉
 
 
 ## 🌐 Socials:
