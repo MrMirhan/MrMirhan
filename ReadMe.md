@@ -15,9 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MrMirhan&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-### 🎧 I'm Currently Listening
-![https://spotify-github-profile.vercel.app/api/view.svg?uid=mrmirhan&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=mrmirhan&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f)
-
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
